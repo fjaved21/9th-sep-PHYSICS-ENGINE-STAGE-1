@@ -1,2 +1,2 @@
-# 9th-sep-PHYSICS-ENGINE-STAGE-1
-includes boggie class, ground class, rock class and images
+# p5.play-boilerplate
+Boiler plate for p5.play
